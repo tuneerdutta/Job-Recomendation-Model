@@ -87,6 +87,16 @@ Cluster 3 - Blue)
 
 **Job Analytics Recommendation App :-** 
 
+**a) HTML and Python code -** Streamlit is an open-source app framework in python language. It helps us create beautiful web apps for data science and machine learning in a little time. It is compatible with major python libraries such as scikit-learn, keras, PyTorch, latex, numpy, pandas, matplotlib, etc. So this code is for deployment of the model into Streamlit app.
+
+![html_1](https://github.com/tuneerdutta/Job-Recomendation-Model/assets/131517578/22e377cd-b12e-44a7-b6e8-f4a49b108f71)
+
+![html_2](https://github.com/tuneerdutta/Job-Recomendation-Model/assets/131517578/d7aea71c-d81d-41cd-b0ae-f4ffcf4fbe6f)
+
+![html_3](https://github.com/tuneerdutta/Job-Recomendation-Model/assets/131517578/d43d1eeb-c341-4d74-8265-59d8c903da0b)
+
+**Job Analytics Recommendation App :-**
+
 This app is made with HTML and Python to deploy the clustering ML model which predits the Most Common Experience Level, Most Common Workplace, Most Common Class, Total Number of Jobs Avalilable according to skills provided in the searck box. The skills are independent on the spellings of the Skills. After that we can see the job details of those specific jobs and we can also apply into those jobs according toi our needs.
 
 ![app](https://github.com/tuneerdutta/Job-Recomendation-Model/assets/131517578/6abf97a1-a73d-498a-b697-99201a333670)
