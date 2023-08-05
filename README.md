@@ -96,28 +96,41 @@ This app is made with HTML and Python to deploy the clustering ML model which pr
 ![app_2](https://github.com/tuneerdutta/Job-Recomendation-Model/assets/131517578/976af744-15c9-4aa6-92f1-04ac58663afa)
 
 
-
-
 **----Insights----**
 
-1) 
+**1) Most of the listed companies on Instahyre have low LinkedIn Followers.**
+
+![insights_1](https://github.com/tuneerdutta/Job-Recomendation-Model/assets/131517578/22137eed-b8b5-4efc-a42f-5d3bb9b0c4ab)
 
 
+**2) Companies Founded after year 2000 have the most Job Opportunities.**
+
+![insights_2](https://github.com/tuneerdutta/Job-Recomendation-Model/assets/131517578/5d421686-b996-4bf9-8b5a-5a42c9fb6c1d)
 
 
+3) IT Jobs are high in demand. Software Engineer is the most demanding designation in the market.
+
+![insights_3](https://github.com/tuneerdutta/Job-Recomendation-Model/assets/131517578/f169e33c-9ca0-40b5-9ed3-6a22afea4cb9)
 
 
+4) Job opportunities are higher for experienced candidates as compared to entry-level freshers.
+
+![insights_4](https://github.com/tuneerdutta/Job-Recomendation-Model/assets/131517578/ed0fdc61-51fb-4eb8-a7cd-c3d9646ea90f)
 
 
+**----Conclusion----**
+
+The project successfully provides insights into the job market for popular skills like Python and SQL, which can be valuable for job seekers, employers and industry analysts alike. The analysis of the most common location, experience level, and job classes can be used by job seekers to target their job search and improve their chances of finding a relevant job. Similarly, employers can use this information to refine their hiring strategies and tailor job requirements to the current job market.
 
 
 **----Challenges Faced----**
 
-**1) Model Selection and Tuning:** Choosing the appropriate ML algorithms and hyperparameter tuning can significantly impact the project's success. It might involve experimenting with different models to find the best fit for the recommendation system.
+a) Scraping LinkedIn followers of different companies without getting banned was a challenging task.
 
-**2) Scalability:** As the amount of scraped data grows, the ML models and infrastructure should be able to handle the increasing scale and provide real-time or near-real-time recommendations.
+b) Proper integration of SpellChecker consumed a lot of time.
 
-**3) Team Problem -** As all of our team members are working professionals, we were finding difficulty in managing time and the time availability of each team member is different. Firstly, we brainstormed and formed a flowchart of works that helped us be on track. We allocated the work according to each person’s time availability and task priority
+c) After ML model deployment, It took us some time and efforts to get familiar with HTML and CSS language for designing UI.
+
 
 Overall this project can be used to help job seekers identify suitable job opportunities based on their skills. This can save job seekers time and effort in their job search and increase the chances of them finding a job that matches their Skills. This project can have a positive social impact by helping job seekers from diverse background, find meaningful employment opportunities and reducing unemployment rates.
 
