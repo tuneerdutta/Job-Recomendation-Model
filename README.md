@@ -1,4 +1,4 @@
-# Job-Recommendation-Model
+# Job-Recommendation-App
 
 ![Screenshot 2023-08-05 085842](https://github.com/tuneerdutta/Job-Recomendation-Model/assets/131517578/299d06cb-3d80-4bc3-bfd1-b445967db13b)
 
