@@ -97,6 +97,8 @@ Cluster 3 - Blue)
 
 **Job Analytics Recommendation App :-**
 
+Link - https://hariharan2608-job-analytics-app-y8xix9.streamlit.app/
+
 This app is made with HTML and Python to deploy the clustering ML model which predits the Most Common Experience Level, Most Common Workplace, Most Common Class, Total Number of Jobs Avalilable according to skills provided in the searck box. The skills are independent on the spellings of the Skills. After that we can see the job details of those specific jobs and we can also apply into those jobs according toi our needs.
 
 ![app](https://github.com/tuneerdutta/Job-Recomendation-Model/assets/131517578/6abf97a1-a73d-498a-b697-99201a333670)
