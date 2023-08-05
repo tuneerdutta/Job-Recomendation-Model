@@ -18,7 +18,7 @@ Develop an application that provides useful insights and relevant job openings b
 
 **----Data Description----**
 
-**1) Excel_Files -** This folder contains the final clean data which was cleaned using numpy as pandas after extracting from the website Instahyre through WebScrapping. Also it contains the Pivot Table Insights which was visualized from the above scrapped data.
+**1) Excel Files -** This folder contains the final clean data which was cleaned using numpy as pandas after extracting from the website Instahyre through WebScrapping. Also it contains the Pivot Table Insights which was visualized from the above scrapped data.
 
 **2) Python_Jupyter_Notebook -** This folder contains all the WebScrapping related python files. It contains the DataCleaning Jupyter Notebook file  followed by the Linkedin.py file which contains the data about the Linkedin Followers Count. Then the Spell Checkers file which is used to correct the spelling while we search for a particular skill. Is also contains the app.py file which contains the HTML and Python combine code for the Streamlit app on which the model is deployed.
 
