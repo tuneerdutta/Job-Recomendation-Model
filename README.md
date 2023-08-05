@@ -118,12 +118,12 @@ This app is made with HTML and Python to deploy the clustering ML model which pr
 ![insights_2](https://github.com/tuneerdutta/Job-Recomendation-Model/assets/131517578/5d421686-b996-4bf9-8b5a-5a42c9fb6c1d)
 
 
-3) IT Jobs are high in demand. Software Engineer is the most demanding designation in the market.
+**3) IT Jobs are high in demand. Software Engineer is the most demanding designation in the market.**
 
 ![insights_3](https://github.com/tuneerdutta/Job-Recomendation-Model/assets/131517578/f169e33c-9ca0-40b5-9ed3-6a22afea4cb9)
 
 
-4) Job opportunities are higher for experienced candidates as compared to entry-level freshers.
+**4) Job opportunities are higher for experienced candidates as compared to entry-level freshers.**
 
 ![insights_4](https://github.com/tuneerdutta/Job-Recomendation-Model/assets/131517578/ed0fdc61-51fb-4eb8-a7cd-c3d9646ea90f)
 
